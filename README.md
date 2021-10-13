@@ -12,11 +12,12 @@ EF CORE POWER TOOLS REVERSE ENNGINEER PRE-ARRANGEMENT STEPS.
 ![3](https://user-images.githubusercontent.com/17457858/137209218-2ac8786b-2f80-43e1-ae30-cef209c1d066.jpg)
 
 4-) WRITE SERVERNAME AND PICK DATABASE
-![4NEW](https://user-images.githubusercontent.com/17457858/137209531-a8d6989b-6dcb-46a9-bd21-3654381ad61f.jpg)
+![4NEW](https://user-images.githubusercontent.com/17457858/137210240-cf8bf00b-708d-4094-8a87-fd859b3a9a82.jpg)
+
 
 5-) PRESS OKEY AND GO NEXT
-![5NEW](https://user-images.githubusercontent.com/17457858/137209638-74500579-8e50-4485-8ed7-73a238b13f48.jpg)
+
 
 6-) CHOOSE YOUR DATA TABLE 
-![6](https://user-images.githubusercontent.com/17457858/137209706-7816c7f8-da71-4481-844b-77bf24bd24e3.jpg)
+
 
