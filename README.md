@@ -21,7 +21,9 @@ EF CORE POWER TOOLS REVERSE ENNGINEER PRE-ARRANGEMENT STEPS.
 
 5-) PRESS OKEY AND GO NEXT
 
+![5NEW](https://user-images.githubusercontent.com/17457858/137210555-56286c6a-496c-432d-b426-3bbc00038496.jpg)
 
 6-) CHOOSE YOUR DATA TABLE 
 
+![6](https://user-images.githubusercontent.com/17457858/137210567-eccbd426-e549-4a63-b0ff-2496c95dced2.jpg)
 
